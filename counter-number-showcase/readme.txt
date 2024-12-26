@@ -3,8 +3,8 @@ Contributors: wpshopmart
 Donate link: https://wpshopmart.com/
 Tags: Counter, Counter Number, Animated Counter, fun facts, stats counter
 Requires at least: 5.0
-Tested up to: 6.6
-Stable tag: 1.3.9
+Tested up to: 6.7.1
+Stable tag: 1.4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -125,6 +125,9 @@ Please use WordPress support forum to ask any query regarding any issue.
 
 
 == Changelog ==
+
+= 1.4.0 =
+* Compatible With wordpress version 6.7.1
 
 = 1.3.9 =
 * Compatible With wordpress version 6.6

@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Counter Number Showcase
- * Version: 1.3.9
+ * Version: 1.4.0
  * Description: counter number showcase plugin is used to display counter number on blog and post page. 
  * Author: wpshopmart
  * Author URI: https://www.wpshopmart.com
